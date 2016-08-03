@@ -1,3 +1,3 @@
 # RESTful-Web-Service-with-Flask
-Flask, RESTful, MariaDB
+Flask, RESTful, MariaDB, ORM
 
